@@ -1,37 +1,35 @@
-
 [
-    {
-      "id": 1,
-      "name": "Basic Plan",
-      "description": "Lorem ipsum dolor sit amet.",
-      "price": 100,
-      "points": [
-        "Point 1: Lorem ipsum",
-        "Point 2: Dolor sit amet",
-        "Point 3: Consectetur adipiscing elit"
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Pro Plan",
-      "description": "Lorem ipsum dolor sit amet.",
-      "price": 250,
-      "points": [
-        "Point 1: Lorem ipsum",
-        "Point 2: Dolor sit amet",
-        "Point 3: Consectetur adipiscing elit"
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Premium Plan",
-      "description": "Lorem ipsum dolor sit amet.",
-      "price": 500,
-      "points": [
-        "Point 1: Lorem ipsum",
-        "Point 2: Dolor sit amet",
-        "Point 3: Consectetur adipiscing elit"
-      ]
-    }
-  ]
-  
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "description": "Ideal for individuals just starting out.",
+    "price": 19.99,
+    "points": [
+      "Point 1: Basic features included",
+      "Point 2: Limited support",
+      "Point 3: No advanced analytics"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pro Plan",
+    "description": "Perfect for small businesses looking to grow.",
+    "price": 49.99,
+    "points": [
+      "Point 1: Advanced features included",
+      "Point 2: Priority support",
+      "Point 3: Basic analytics included"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "description": "For large enterprises with advanced needs.",
+    "price": 99.99,
+    "points": [
+      "Point 1: Premium features included",
+      "Point 2: 24/7 premium support",
+      "Point 3: Advanced analytics included"
+    ]
+  }
+]

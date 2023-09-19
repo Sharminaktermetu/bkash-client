@@ -33,9 +33,13 @@ const PricingPage = () => {
                 <li key={index} className="mb-2">{point}</li>
               ))}
             </ul>
-            <Link to='payment' className="bg-blue-600 text-white px-5 py-2 rounded-full hover:bg-blue-700 transition-colors duration-300 mt-4">
+            <Link
+              to={`payment?price=${plan.price}`} // Include the plan price in the URL
+              className="bg-blue-600 text-white px-5 py-2 rounded-full hover:bg-blue-700 transition-colors duration-300 mt-4"
+            >
               Select
             </Link>
+
           </div>
         ))}
       </div>
