@@ -1,0 +1,37 @@
+
+[
+    {
+      "id": 1,
+      "name": "Basic Plan",
+      "description": "Lorem ipsum dolor sit amet.",
+      "price": 100,
+      "points": [
+        "Point 1: Lorem ipsum",
+        "Point 2: Dolor sit amet",
+        "Point 3: Consectetur adipiscing elit"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Pro Plan",
+      "description": "Lorem ipsum dolor sit amet.",
+      "price": 250,
+      "points": [
+        "Point 1: Lorem ipsum",
+        "Point 2: Dolor sit amet",
+        "Point 3: Consectetur adipiscing elit"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium Plan",
+      "description": "Lorem ipsum dolor sit amet.",
+      "price": 500,
+      "points": [
+        "Point 1: Lorem ipsum",
+        "Point 2: Dolor sit amet",
+        "Point 3: Consectetur adipiscing elit"
+      ]
+    }
+  ]
+  
