@@ -3,33 +3,33 @@
     "id": 1,
     "name": "Basic Plan",
     "description": "Ideal for individuals just starting out.",
-    "price": 19.99,
+    "price": 199,
     "points": [
-      "Point 1: Basic features included",
-      "Point 2: Limited support",
-      "Point 3: No advanced analytics"
+      "Basic features included",
+      "Limited support",
+      "No advanced analytics"
     ]
   },
   {
     "id": 2,
     "name": "Pro Plan",
     "description": "Perfect for small businesses looking to grow.",
-    "price": 49.99,
+    "price": 499,
     "points": [
-      "Point 1: Advanced features included",
-      "Point 2: Priority support",
-      "Point 3: Basic analytics included"
+      "Advanced features included",
+      "Priority support",
+      "Basic analytics included"
     ]
   },
   {
     "id": 3,
     "name": "Premium Plan",
     "description": "For large enterprises with advanced needs.",
-    "price": 99.99,
+    "price": 999,
     "points": [
-      "Point 1: Premium features included",
-      "Point 2: 24/7 premium support",
-      "Point 3: Advanced analytics included"
+      "Premium features included",
+      "24/7 premium support",
+      "Advanced analytics included"
     ]
   }
 ]
