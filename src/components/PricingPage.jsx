@@ -17,8 +17,8 @@ const PricingPage = () => {
   }, []);
 
   return (
-    <div className="bg-gray-100 min-h-screen flex flex-col justify-center items-center">
-      <h1 className="text-4xl font-semibold mb-8">Choose a Plan</h1>
+    <div className="bg-indigo-950 h-screen flex flex-col justify-center items-center">
+      <h1 className="text-4xl font-semibold mb-8 text-yellow-300">Choose a Plan</h1>
       <div className="flex flex-col lg:flex-row justify-center items-center space-y-6 lg:space-y-0">
         {plansData.map((plan) => (
           <div
