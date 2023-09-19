@@ -1,11 +1,11 @@
 
 
 const Error = () => {
+    const searchData = new URLSearchParams(window.location.search)
+    const message = searchData.get('message')
     return (
-        <div>
-            <p>This is an error</p>
-        </div>
-    );
-};
+        <div>payment {message}</div>
+    )
+}
 
-export default Error;
+export default Error
